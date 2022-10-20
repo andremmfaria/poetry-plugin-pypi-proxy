@@ -1,4 +1,4 @@
-name: Upload poetry-plugin-pypi-proxy Python Package to Pypi 
+name: Upload poetry-plugin-pypi-proxy Python Package to Pypi
 
 on:
   push:
